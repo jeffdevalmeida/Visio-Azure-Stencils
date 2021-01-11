@@ -1,1 +1,1 @@
-"# Visio-Azure-Stencils" 
+# Visio-Azure-Stencils
